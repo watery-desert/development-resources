@@ -1,10 +1,11 @@
-# This is not for self promotation. Only free content.
+# Resources for iOS app dev and GoLang.
 
 ### Rules to add:
 1. Must produce good quality content in English.
 2. For youtube video must have English understandable human audio.
 3. Can't add multiple platforms.
-4. Explicit course link is not allowed.
+4. This is not for self promotation. Explicit course link is not allowed. Only free content.
+5. Order doesn't matter and new entry is added one after another.
 
 ## iOS Dev
 <table>
@@ -12,7 +13,6 @@
     <th>Name</th>
     <th>Platform</th> 
   </tr>
-
 
 
   <tr>
@@ -79,6 +79,26 @@
     </td> 
   </tr>
 
+ <tr>
+    <td>The SwiftUI Lab</td>
+    <td>
+     <a href = "https://swiftui-lab.com"> Website</a> 
+    </td> 
+  </tr>
+
+   <tr>
+    <td>Swift Lee</td>
+    <td>
+     <a href = "https://www.avanderlee.com"> Website</a> 
+    </td> 
+  </tr>
+
+   <tr>
+    <td>CodeWithChris</td>
+    <td>
+     <a href = "https://www.youtube.com/@CodeWithChris"> YouTube</a> 
+    </td> 
+  </tr>
 
 </table>
 
@@ -112,4 +132,15 @@
     </td> 
   </tr>
 
+
+   <tr>
+    <td>Go by Example</td>
+    <td>
+     <a href = "https://gobyexample.com"> Website</a> 
+    </td> 
+  </tr>
+
 </table>
+
+
+### You can add link. Please follow the guidelines and structure.
